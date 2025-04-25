@@ -2,7 +2,7 @@ import java.util.*;
 import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
 
-public class VSLangInterpreter {
+public class VSL {
 
     public static void main(String[] args) throws Exception {
         if (args.length < 1) {
