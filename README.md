@@ -32,7 +32,7 @@ That's it – no setup, no fuss.
 | String length  | `len("hello")`             | Returns 5                              |
 | Substring      | `substring("hey", 1, 2)`   | Returns "ey"                           |
 | Math           | `+`, `-`, `*`, `/`         | Standard arithmetic operators          |
-| Compare stuff  | `<`, `>`, `<=`, `>=`       | Used in conditions                     |
+| Compare stuff  | `<`, `>`, `<=`, `>=`       | Used in while conditionals                    |
 
 ---
 
@@ -42,6 +42,14 @@ That's it – no setup, no fuss.
 ### Echo Input
 ### Multiply
 ### Repeat Input
+```let ch = read();
+let n = read();
+let i = 0;
+while (i < n) {
+  print(ch);
+  i = i + 1;
+}```
+
 ### Reverse a String
 ## That’s It
 
