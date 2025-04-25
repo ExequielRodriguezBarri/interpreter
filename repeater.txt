@@ -1,0 +1,7 @@
+let ch = read();
+let n = read();
+let i = 0;
+while (i < n) {
+  print(ch);
+  i = i + 1;
+}
