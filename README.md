@@ -48,7 +48,8 @@ let i = 0;
 while (i < n) {
   print(ch);
   i = i + 1;
-}```
+}
+```
 
 ### Reverse a String
 ## That’s It
